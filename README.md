@@ -24,6 +24,7 @@ Install [PHP Server](https://marketplace.visualstudio.com/items?itemName=brapifr
 <p align="left">
 <img src="https://brapifra.gallerycdn.vsassets.io/extensions/brapifra/phpserver/3.0.2/1618410314644/Microsoft.VisualStudio.Services.Icons.Default" width="100" height="100" />  
 </p>
+
 OR
 
 Serve the project via XAMPP
