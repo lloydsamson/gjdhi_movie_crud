@@ -45,6 +45,8 @@ Install [XAMPP](https://www.apachefriends.org/download.html)
 >> email: user@gmail.com 
 >>password: user1234  
 
+You can add more if you want! 
+
 
 
 ## View demonstration video from Google Drive
