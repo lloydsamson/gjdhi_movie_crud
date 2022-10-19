@@ -27,6 +27,7 @@ Install [PHP Server](https://marketplace.visualstudio.com/items?itemName=brapifr
 OR
 
 Serve the project via XAMPP
+
 Install [XAMPP](https://www.apachefriends.org/download.html)
 <p align="left">
 <img src="https://upload.wikimedia.org/wikipedia/en/thumb/7/78/XAMPP_logo.svg/1200px-XAMPP_logo.svg.png" width="100" height="100" />  
