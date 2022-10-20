@@ -1,4 +1,4 @@
-# Global JD Holdings Inc Movie CRUD Technical Exam
+# Movie CRUD Technical Exam
 
 Languages that I used:
 
